@@ -9,3 +9,12 @@ body {
 	line-height: 1.5em;
 	padding: 0 10px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
+img #runbsd {
+    width: 33%;
+}
