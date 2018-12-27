@@ -27,3 +27,11 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.footer a {
+	max-width: 25%;
+}
+
+.footer img {
+	max-width: 100%;
+}
